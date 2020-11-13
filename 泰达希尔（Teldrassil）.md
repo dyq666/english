@@ -12,10 +12,10 @@ Greetings, \<name\>. I `am` Ilthalaine. My purpose in Shadowglen `is` to train y
 
 （官）你好，\<name\>。我是伊尔萨莱恩。我负责在幽影谷训练像你这样年轻的 \<class\>s，并确保自然的平衡。
 
-| 类型       | 句子成分 | 英文                                                 | 中文                               |
-| ---------- | -------- | ---------------------------------------------------- | ---------------------------------- |
-| 非谓语动词 | 主语补语 | My purpose ... is `to train ...` and `to ensure ...` | 我的目的是`训练 ...` 和 `确保 ...` |
-| 从句       | 宾语     | to ensure `that the balance of nature is maintained` | 确保`自然的平衡被维持住`           |
+| 类型   | 句子成分 | 英文                                                 | 中文                               |
+| ------ | -------- | ---------------------------------------------------- | ---------------------------------- |
+| 非谓语 | 主语补语 | My purpose ... is `to train ...` and `to ensure ...` | 我的目的是`训练 ...` 和 `确保 ...` |
+| 从句   | 宾语     | to ensure `that the balance of nature is maintained` | 确保`自然的平衡被维持住`           |
 
 The spring rains `were` particularly heavy this year, causing some of the forest's beasts to flourish while others suffered. 
 
@@ -23,11 +23,11 @@ The spring rains `were` particularly heavy this year, causing some of the forest
 
 （官）今年的春雨下得特别大，导致森林里的某些野兽过度繁殖，已然威胁到其他族群的生存环境。
 
-| 类型       | 句子成分 | 英文                                                         | 中文                                                 |
-| ---------- | -------- | ------------------------------------------------------------ | ---------------------------------------------------- |
-| 非谓语动词 | 结果状语 | The spring rains were particularly heavy this year, `causing ...` | 今年的春雨下得特别大，`导致 ...`                     |
-| 非谓语动词 | 宾语补语 | causing some of the forest's beasts `to flourish`            | 让森林野兽中的某些野兽兴盛                           |
-| 从句       | 让步状语 | causing some of the forest's beasts to flourish `while others suffered` | 导致森林野兽中的某些野兽兴盛，但其他野兽因此遭殃了。 |
+| 类型   | 句子成分 | 英文                                                         | 中文                                                 |
+| ------ | -------- | ------------------------------------------------------------ | ---------------------------------------------------- |
+| 非谓语 | 结果状语 | The spring rains were particularly heavy this year, `causing ...` | 今年的春雨下得特别大，`导致 ...`                     |
+| 非谓语 | 宾语补语 | causing some of the forest's beasts `to flourish`            | 让森林野兽中的某些野兽兴盛                           |
+| 从句   | 让步状语 | causing some of the forest's beasts to flourish `while others suffered` | 导致森林野兽中的某些野兽兴盛，但其他野兽因此遭殃了。 |
 
 Unfortunately, the nightsaber numbers `grew` too large, and they `will devastate` the other populations if they are not culled.
 
@@ -67,7 +67,7 @@ Ilthalaine says：I'm sorry, Huntress. None of our new \<class\>s `are` ready. T
 
 | 类型   | 句子成分 | 英文                           | 中文                       |
 | ------ | -------- | ------------------------------ | -------------------------- |
-| 非谓语动词 | 定语 | They still have much `to learn`. | 他们仍有很多`需要学习的`东西。 |
+| 非谓语 | 定语 | They still have much `to learn`. | 他们仍有很多`需要学习的`东西。 |
 
 Huntress Sandrya Moonfall says: I `fear` time may not be on our side, Ilthalaine. The battle may `carry` to Teldrassil itself if we do not act soon.
 
@@ -97,22 +97,110 @@ Dentaria Silverglade says: `Study` well, \<name\>. We `may need` you fighting by
 
 （补充）by our side，这里 by 用的是 google 翻译中的 indicating location of a physical object beside a place or object，表示在某地/物/人旁边。
 
-| 类型       | 句子成分 | 英文                                         | 中文                               |
-| ---------- | -------- | -------------------------------------------- | ---------------------------------- |
-| 从句       | 时间状语 | We may need ... `before the next moon fills` | `在下次满月之前`，我们也许需要 ... |
-| 非谓语动词 | 宾语补语 | We may need you `fighting by our side`.      | 我们也许需要你在我们这边战斗。     |
+| 类型   | 句子成分 | 英文                                         | 中文                               |
+| ------ | -------- | -------------------------------------------- | ---------------------------------- |
+| 从句   | 时间状语 | We may need ... `before the next moon fills` | `在下次满月之前`，我们也许需要 ... |
+| 非谓语 | 宾语补语 | We may need you `fighting by our side`.      | 我们也许需要你在我们这边战斗。     |
+
+
+
+## Fel Moss Corruption （我）恶魔苔藓的腐化（官）腐化的魔苔
+
+from：Ilthalaine 伊尔萨莱恩
+
+to：Ilthalaine 伊尔萨莱恩
+
+### Description
+
+You `seem` to know what you're doing. Perhaps I `can task` you with something a little more important.
+
+（我）你似乎知道你正在做什么。也许我可以给你一个有些重要的任务。
+
+（官）看来你很清楚自己在做什么。或许我可以交给你一项更重要的任务。
+
+| 类型   | 句子成分 | 英文                     | 中文               |
+| ------ | -------- | ------------------------ | ------------------ |
+| 非谓语 | 主语补语 | You seem `to know ...`   | 你似乎`知道 ...`   |
+| 从句   | 宾语     | know `what you're doing` | 知道`你正在做什么` |
+
+As you may well know, the corruption in Teldrassil `was supposedly wiped` away. Yet something lingers. The creatures `have not calmed` and all manner of problems still `plague` us.
+
+（我）正如你也许很好地知道，在 Teldrassil 的腐化本应该被清除了。然而有一些腐化的东西留存了下来。动物们没有平静下来，且各种方式的问题仍困扰着我们。
+
+（官）你大概也知道，我们原以为泰达希尔的污染已被清除。但是腐化的气息依然残留。自然界的生物并没有恢复常态，我们依然要面临各种各样的问题。
+
+I `need` you to deal with the grellkin that have gathered to the west, and while you're there, I `want` you to search them for fel moss. This `will help` me determine from where this continuing corruption stems.
+
+（我）我需要你去解决已经向西边聚集的劣魔，当你在那里的过程中，我想要你在劣魔身上搜寻恶魔苔藓。这个会帮助我确定这个持续的腐败来源的地方。
+
+（官）我要你对付聚集在西边聚集的劣魔，并从他们身上收集魔苔。我或许可以借此找出污染之源。
+
+
+| 类型   | 句子成分 | 英文                     | 中文               |
+| ------ | -------- | ------------------------ | ------------------ |
+| 非谓语 | 宾补     | I need you `to deal with ...`                                | 我需要你`去解决 ...`             |
+| 从句   | 定语     | the grellkin `that have gathered to the west`                | 已经向西边聚集的劣魔             |
+| 从句   | 时间状语 | `while you're there`, I want ...                             | 当你在那里的过程中，我想要你 ... |
+| 非谓语 | 宾补 | This will help me `(to) determine ...` | 这个会帮助我`去确定 ...` |
+| 非谓语 | 宾补     | I want you `to search ...`                                   | 我想要你`去搜寻 ...`             |
+| 从句 | 宾语 | determine `from where this continuing corruption stems`. | 确定这个持续的腐败来源的地方。 |
+
+### Progress
+
+`Satisfy` my suspicions, \<name\>. `Bring` to me fel moss from the grellkin.
+
+（我）满足我的疑虑，\<name\>. 请给我带来劣魔身上的恶魔苔藓。
+
+（官）帮我证明我的猜想吧，西瓜小战。从劣魔身上收集魔苔给我。
+
+### Complement
+
+Your service to the creatures of Shadowglen `is` worthy of reward, \<name\>.
+
+（我）你对 Shadowglen 动物的帮助是值得嘉奖的, \<name\>.
+
+（官）你为幽影谷生物所做的一切值得褒奖，\<name\>。
+
+| 类型   | 句子成分 | 英文                                          | 中文                       |
+| ------ | -------- | --------------------------------------------- | -------------------------- |
+| 非谓语 | 定语     | Your service `to the creatures of Shadowglen` | 你对 Shadowglen 动物的帮助 |
+
+You `confirmed` my fears, however. The grellkin `are still tainted` by fel moss, despite Teldrassil's blessing. Something sinister `remains` within the tree. I `can only hope` that the Gnarlpine tribe of furbolgs are free of the corruption, or we are still in grave danger.
+
+（我）但是，你证实了我害怕的事。尽管有泰达希尔的祝福，劣魔仍被恶魔苔藓污染。某些邪恶的东西仍残留在树中。我只希望瘤背熊怪免于腐化，否则我们依然处于严重的危险中。
+
+（官）不过，你也证明了我的担忧。尽管这里得到了泰达希尔的赐福，但是劣魔依然被魔苔所污染。我只希望瘤背熊怪免于腐化，否则我们的危机就无法化解。
+
+| 类型 | 句子成分 | 英文                       | 中文           |
+| ---- | -------- | -------------------------- | -------------- |
+| 从句 | 宾语     | I can only hope `that ...` | 我只希望 `...` |
+
+I `will look` into this further and `contact` those who might be of aid. Thank you, \<class\>.
+
+（我）我会进一步调查，并联系也许会援助的人。谢谢你，\<class\>。
+
+（官）我会继续调查此事，寻求可能的帮助力量。谢谢你，\<class\>。
+
+| 类型 | 句子成分 | 英文                                | 中文                 |
+| ---- | -------- | ----------------------------------- | -------------------- |
+| 从句 | 定语     | contact those `who might be of aid` | 联系`也许会援助的`人 |
+
+
 
 ## 其他
 
 | 类型     | 英文                    | 我             | 官方             |
 | -------- | ----------------------- | -------------- | ---------------- |
-| 怪物     | Young Nightsaber        | 夜刃豹幼崽     | 夜刃豹幼崽       |
 | 地名     | Aldrassil               | 阿达希尔       | 奥达希尔         |
 | 地名     | Shadowglen              | 暗影峡谷       | 幽影谷           |
+| 怪物     | Young Nightsaber        | 夜刃豹幼崽     | 夜刃豹幼崽       |
 | 怪物     | Young Thistle Boar      | 蓟野猪幼崽     | 草刺野猪幼崽     |
+| 怪物     | Grell                   | -              | 小劣魔           |
+| 怪物     | Grellkin                | -              | 劣魔             |
+| 物品     | Cat Hair                | 猫毛           | 猫科动物的毛     |
+| 物品     | Demon Hair              | 恶魔毛         | 恶魔毛发         |
 | NPC 职位 | Armorer & Shieldcrafter | 盔甲商和盾牌商 | 护甲和盾牌供应商 |
 | NPC      | Training Dummy          | 训练假人       | 训练假人         |
-| 物品     | Cat Hair                | 猫毛           | 猫科动物的毛     |
 | NPC      | Wounded Sentinel        | 受伤的哨兵     | 受伤的哨兵       |
 | NPC 职位 | Food & Drink            | 食品和饮料商   | 餐饮供应商       |
 | NPC 职位 | General Supplies        | 普通的供应商   | 杂货供应商       |
