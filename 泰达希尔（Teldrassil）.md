@@ -266,6 +266,42 @@ Safe travels to you.
 
 
 
+## Priestess of the Moon （我）月之女祭司	（官）月神女祭司
+
+from: Ilthalaine 伊尔萨莱恩
+
+to: Dentaria Silverglade 德塔莉亚·银林
+
+### Description
+
+Perhaps you'd `be willing` to aid us in further pursuing the corruption haunting Shadowglen.
+
+Dentaria Silverglade, Priestess of the Moon, `has offered` to aid us. You `should find` her between the two pools just north of our great tree. `Circle` around the tree to reach her and `offer` her any help that you can, young \<class\>.
+
+（我）也许你现在愿意帮助我们，进一步追寻困扰幽影谷的腐化。德塔莉亚·银林，一位月之女祭司，已经表明愿意帮助我们。你应该能在大树北边的两个水池中间发现她。绕着树走到她那里，然后为她提供任何你能做到的帮助，年轻的 \<class\>。
+
+（官）或许你可以帮助我们继续调查幽影谷的污染事件。月神女祭司德塔莉亚·银林向我们伸出援手。你可以在奥达希尔以北的两座池塘之间找到她。绕树前进，年轻的 \<class\>，尽你所能地协助她吧。
+
+| 类型   | 句子成分 | 英文                                  | 中文                       |
+| ------ | -------- | ------------------------------------- | -------------------------- |
+| 非谓语 | 定语     | the corruption `haunting Shadowglen`  | `困扰幽影谷的` 腐化        |
+| 非谓语 | 宾语     | has offered `to aid us`               | 已经表明愿意`帮助我们`     |
+| 非谓语 | 状语     | Circle around the tree `to reach her` | 绕着树走`到她那里`         |
+| 从句   | 定语     | offer her any help `that you can`     | 为她提供任何你能做到的帮助 |
+
+### Completion
+
+It `is` good that you've come. It `seems` your training progresses quickly.
+
+（我）你能来这真好。似乎你的训练进展很快。
+
+（官）很高兴你能赶来。看来你的进步很快嘛。
+
+| 类型 | 句子成分 | 英文                                | 中文              |
+| ---- | -------- | ----------------------------------- | ----------------- |
+| 从句 | 主语     | It is good `that you've come`.      | `你能来这`真好。  |
+| 从句 | 表语     | It seems `(that) your training ...` | 似乎`你的训练...` |
+
 
 
 ## 其他
@@ -281,6 +317,7 @@ Safe travels to you.
 | 物品     | Cat Hair                | 猫毛           | 猫科动物的毛     |
 | 物品     | Demon Hair              | 恶魔毛         | 恶魔毛发         |
 | NPC 职位 | Armorer & Shieldcrafter | 盔甲商和盾牌商 | 护甲和盾牌供应商 |
+| NPC      | Striped Nightsaber      | -              | 条纹夜刃豹       |
 | NPC      | Training Dummy          | 训练假人       | 训练假人         |
 | NPC      | Wounded Sentinel        | 受伤的哨兵     | 受伤的哨兵       |
 | NPC 职位 | Food & Drink            | 食品和饮料商   | 餐饮供应商       |
