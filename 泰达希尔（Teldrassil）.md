@@ -191,7 +191,7 @@ I `will look` into this further and `contact` those who might be of aid. Thank y
 
 from：Ilthelaine 伊尔萨莱恩
 
-to：Melithar 麦利萨尔
+to：Melithar Staghelm 麦利萨尔·鹿盔
 
 ### Description
 
@@ -214,9 +214,59 @@ Ilthalaine `sent` you? He was `wise` to do so. I `am` indeed in need of help.
 （官）
 伊尔萨莱恩派你来的？他做了个明智的决定。我确实需要帮助。
 
-| 类型 | 句子成分         | 英文                    | 中文             |
-| ---- | ---------------- | ----------------------- | ---------------- |
-| 从句 | 感觉是某种状语？ | He was wise `to do so`. | 他`这样做`很明智 |
+| 类型 | 句子成分 | 英文                    | 中文             |
+| ---- | -------- | ----------------------- | ---------------- |
+| 从句 | 状语？   | He was wise `to do so`. | 他`这样做`很明智 |
+
+
+
+## Demonic thieves （我）恶魔小偷（官）恶魔窃贼
+
+from：Melithar Staghelm 麦利萨尔·鹿盔
+
+to：Melithar Staghelm 麦利萨尔·鹿盔
+
+### Description
+
+Vicious little grell! They`'ve been stealing` from our foodstores again. If you wouldn't mind lending a hand, they `are` sure to have my stolen bags within their camps to the west. I `would be` glad to reward you if you can bring them back to me.
+
+（我）可恶的小劣魔！他们一直从我们食品存储处偷东西。如果你不介意帮个忙，他们一定把从我这偷走的包向西放到了他们的营地中。如果你能把他们带回给我，我高兴去奖赏你。
+
+（官）邪恶的小劣魔！他们又在开始偷窃我们的粮食储备了。如果你不介意帮我一把的话，就去西边的劣魔营地夺回被盗的背包。只要你完成任务，我会很乐意奖励你。
+
+| 类型   | 句子成分 | 英文                                       | 中文                           |
+| ------ | -------- | ------------------------------------------ | ------------------------------ |
+| 非谓语 | 状语？   | they are sure `to have my stolen bags ...` | 他们一定`把从我这偷走的包 ...` |
+| 非谓语 | 状语？   | be glad `to reward ...`                    | 高兴`去奖赏 ...`               |
+
+### Progress
+
+I `don't have` any spare supplies for my customers until my stolen goods are recovered.
+
+（我）在我被偷的物品被找回前，我没有多余的供给品给我的访客了。
+
+（官）除非找回被盗的货物，否则我没法为顾客提供额外的物品供给。
+
+### Completion
+
+Elune be praised! And you as well, young \<class\>.
+
+There `are` many young night elves in need of these, but I'd be more than happy to give you one of the bags as a reward. I`'m` sure it will come in handy.
+
+Safe travels to you.
+
+（我）赞美艾露恩！也赞美你，年轻的 \<class\>。这里有许多需要这些供给品的年轻暗夜精灵，但是我很高兴给你一个作为奖励。我确定它会有用。一路平安。
+
+（官）赞美月神！还有你，年轻的 \<class\>。虽然很多年轻的暗夜精灵都需要这些背包，但是我决定送你一个作为奖励。你会用得着的。祝你一路平安。
+
+| 类型   | 句子成分 | 英文                                     | 中文                 |
+| ------ | -------- | ---------------------------------------- | -------------------- |
+| 非谓语 | 状语？   | I'd be more than happy `to give you ...` | 我很高兴`去给你 ...` |
+| 从句   | 宾语     | I'm sure `(that) it will ...`            | 我确定`它会 ...`     |
+
+
+
+
 
 ## 其他
 
