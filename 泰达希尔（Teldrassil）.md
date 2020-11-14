@@ -187,6 +187,37 @@ I `will look` into this further and `contact` those who might be of aid. Thank y
 
 
 
+## A Favor for Melithar (我) 帮 Melithar 一个忙（官）帮助麦利萨尔
+
+from：Ilthelaine 伊尔萨莱恩
+
+to：Melithar 麦利萨尔
+
+### Description
+
+You `should speak` with Melithar. I `believe` he had some troubles with the grell already. I `expect` he can offer you a well needed place to store more of your goods should you aid him. （倒装，等于 if you should aid him）
+
+（我）你应该和 Melithar 谈谈。我相信劣魔已经给他带来了一些麻烦。如果你帮助他，我预计他会给你一个急需的用于存储更多东西的地方。
+
+（官）你应该跟麦利萨尔谈谈。我相信正为劣魔的事情发愁呢。如果你能帮他一把的话，他会送你你急需的背包的。
+
+| 类型 | 句子成分 | 英文                                | 中文                     |
+| ---- | -------- | ----------------------------------- | ------------------------ |
+| 从句 | 定语     | place `to store more of your goods` | `用于存储更多东西的`地方 |
+
+### Completion
+
+Ilthalaine `sent` you? He was `wise` to do so. I `am` indeed in need of help.
+
+（我）伊尔萨莱恩派你来的？他这样做很明智。我的确需要帮助。
+
+（官）
+伊尔萨莱恩派你来的？他做了个明智的决定。我确实需要帮助。
+
+| 类型 | 句子成分         | 英文                    | 中文             |
+| ---- | ---------------- | ----------------------- | ---------------- |
+| 从句 | 感觉是某种状语？ | He was wise `to do so`. | 他`这样做`很明智 |
+
 ## 其他
 
 | 类型     | 英文                    | 我             | 官方             |
