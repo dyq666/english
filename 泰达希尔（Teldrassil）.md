@@ -304,6 +304,62 @@ It `is` good that you've come. It `seems` your training progresses quickly.
 
 
 
+## Iverron's Antidote （我）Iverron 的解药（官）埃沃隆的解药
+
+from: Dentaria Silverglade 德塔莉亚·银林
+
+to: Dentaria Silverglade 德塔莉亚·银林
+
+### Description
+
+Our friend Iverron `has fallen` to poison from the nearby webwood spiders. I `can tend` to him to keep his state from deteriorating, but I need someone to gather an ingredient to prepare him an antidote.
+
+All around the ponds you `should find` Moonpetal Lilies. These flowers `have` great healing properties, and I can use them with the ingredients I already have to restore Iverron to better health.
+
+Would you gather them for me? There `should be` many just in sight of here, near the water's edge.
+
+（我）我们的朋友 Iverron 中了附近 webwood 蜘蛛的毒。为了避免他的状态恶化，我会照顾他，但为了为他准备解药，我需要一个人去收集材料。
+
+你可以在池塘周围找到月瓣百合。这些花有非常好的治疗能力，我能用它们和我已经有的材料去恢复 Iverron 的建康。
+
+你能帮我收集他们吗？在水的边缘附近，应该有很多你现在视野中就能看见的。
+
+（官）我们的朋友埃沃隆被附近的树林蜘蛛咬了，现在已经中毒。我可以尽量使他的病情不再恶化，但是我得找人收集一种材料，才能为他准备解药。
+
+你可以在水池旁找到月牙百合花。这些花朵有着非常好的治疗效果，我可以把它们同我手中已有的材料混合起来，使埃沃隆恢复健康。
+
+你能去帮我收集一些吗？这附近不远处就有许多月牙花分布在水池边。
+
+| 类型   | 句子成分 | 英文                                                     | 中文                                                         |
+| ------ | -------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| 非谓语 | 目的状语 | I can tend to him `to keep his state from deteriorating` | 为了避免他的状态恶化，我会照顾他                             |
+| 非谓语 | 宾语补语 | I need someone `to gather ...`                           | 我需要一个人`去收集 ...`                                     |
+| 非谓语 | 目的状语 | I need someone to gather ... `to prepare ...`            | `为了准备...`，我需要某人去 ... （补充说明：这里的两个 to do 都是修饰 need 的。第一个是补全 need 的宾语，表示需要某人 `做什么`。而第二个是表示需要某人做某事的 `目的`。） |
+| 从句   | 宾语     | the ingredients `(that) I already have`                  | `我已经有的`材料                                             |
+| 非谓语 | 宾语补语 | I can use them ... `to restore ...`                      | 我可以用他们 ... `去恢复 ...`                                |
+
+### Progress
+
+Our dear friend `is not` doing well, even with my mending. Have you brought the supplies I require?
+
+（我）尽管有我的照顾，我们亲爱的朋友现在不是很好。你能带回来我需要的供给品吗？
+
+（官）虽然我已尽力治疗，但我们的好朋友情况依然不妙。你把我要的材料带来了吗？
+
+| 类型 | 句子成分 | 英文                     | 中文             |
+| ---- | -------- | ------------------------ | ---------------- |
+| 从句 | 定语     | the supplies `I require` | `我需要的`供给品 |
+
+### Completion
+
+These `will do` perfectly. Thank you, \<name\>. Your swiftness is appreciated.
+
+（我）这里接下来的事会顺利完成。谢谢你，\<name\>。感谢你的迅捷。
+
+（官）这些就很不错了。谢谢你，\<name\>。你的动作很快。
+
+
+
 ## 其他
 
 | 类型     | 英文                    | 我             | 官方             |
