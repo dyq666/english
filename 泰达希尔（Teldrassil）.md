@@ -399,6 +399,49 @@ I `see` you found me （我认为应该是 are finding）, young \<race\>. Denta
 | 从句   | 定语           | the supplies `I require`             | `我需要的`供给品       |
 | 非谓语 | 特殊，主系表后 | Dentaria was wise `to have send you` | 德塔莉亚`派你来`很明智 |
 
+
+
+## Webwood Corruption
+
+### Description
+
+I`'d hoped` to never return to Teldrassil for such grim business. I`'d hoped` that its corruption had been wiped away completely. Something foul lingers.
+
+These spiders `suffer` much more deeply from the corruption than the other nearby widelife. They `are becoming` a danger to your people and a danger to the forest. We `must thin`their numbers, but more importantly, we need to find the source of the corruption that plagued them.
+
+I `will come` with you and `aid` you in this.
+
+我之前就已经希望不要因为这种令人担忧的且必须解决的事情（business: things that need to be done or discussed）返回泰达希尔。我之前就已经希望它的腐败已经被完全清除。然而一些肮脏的东西留存了下来。
+
+这些蜘蛛比其他附近的野生动物更深地遭受了腐化。对于你的人民和森林来说，他们正在成为一个危险。我们必须削减他们的数量，但更重要的是，我们需要找到腐败的长期使他们痛苦的源头。
+
+我会和你一起去，并且在任务过程中援助你。
+
+### Completion
+
+This corruption these spiders suffer from `is not` simply surface deep. It `cannot be` magic or subtle mal intent. It is bred into them （这里估计有些问题，因为 bred 作为 ‘繁殖’ 的意思时，是不及物的，没有别动语态）.
+
+It `seems` our next task is clear.
+
+这些蜘蛛遭受的腐化不只是表面的深度。它不可能是魔法或者 ？？。它通过繁殖进入到蜘蛛的身体里面。
+
+看起来我们下个任务很清楚了。
+
+| 类型   | 句子成分 | 英文                                               | 中文                            |
+| ------ | -------- | -------------------------------------------------- | ------------------------------- |
+| 非谓语 | 宾语     | I'd hoped `to never return ...`                    | 我之前就已经希望`不会返回 ...`  |
+| 从句   | 宾语     | I'd hoped `that its corruption ...`                | 我之前就已经希望 `它的腐败 ...` |
+| 非谓语 | 宾语     | we need `to find ...`                              | 我们需要`去寻找`                |
+| 从句   | 宾语     | the corruption `that plagued them`                 | `长期使他们痛苦的`腐败          |
+| 从句   | 定语     | This corruption (that) `these spiders suffer from` | 这些蜘蛛遭受`的腐化`            |
+| 从句   | 定语     | It seems our next task is clear                    | 看起来我们下个任务很清楚了      |
+
+
+
+
+
+
+
 ## 其他
 
 | 类型     | 英文                    | 我               | 官方             |
