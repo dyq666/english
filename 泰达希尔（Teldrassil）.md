@@ -360,25 +360,66 @@ These `will do` perfectly. Thank you, \<name\>. Your swiftness is appreciated.
 
 
 
+## The Woodland Protector（我）林地守卫者（官）森林守护者
+
+from: Dentaria Silverglade 德塔莉亚·银林
+
+to: Tarindrella 塔琳德拉
+
+### Description
+
+I `must ask` something more dangerous of you. Strange news `has traveled` to me through the whisperings of the forest of spirits. The mysterious woodland protector, Tarindrella, `has returned` to Shadowglan again.
+
+The dryad's presence `has not been` felt in the forests since before the blessing of Teldrassil. Something `is` surely amiss if she has journeyed back to this land.
+
+`Seek out` Tarindrella in the Shadowthread cave to the north. It `is` dangerous, but we will be prepared with this antidote just in case.
+
+（我）我必须请你再帮我做个更危险的事情。奇怪的新闻通过森林之魂的耳语传到了我这里。神秘的林地守护者，Tarindrella，再一次回到了幽影谷。
+
+在泰达希尔的祝福之前，就没有人在森林中察觉到这位树妖的存在。如果她已经回到了这片林地，那一定是有不对劲的事情。
+
+在这里北边的 Shadowthread 洞穴里找到 Tarindrella。这事很危险，以防万一（just in case）已经为我们准备好了解毒剂。
+
+（官）我必须请你去做一件更危险的事。森林之魂的低语给我带来了奇怪的消息。神秘的森林守护者塔琳德拉又回到了幽影谷。
+
+早在泰达希尔受到祝福之前，这位树妖的身影就没有在这片森林中出现过了。她既然回到了这里，就意味着这里一定出了什么事情。
+
+到北边的黑丝洞去找到塔琳德拉。是有些危险，不过有了解药，我们就不用怕了。
+
+### Completion
+
+I `see` you found me （我认为应该是 are finding）, young \<race\>. Dentaria `was` wise to have send you（我认为应该是 is wise to send you）.
+
+（我）我看见你在找我，年轻的 \<race\>。德塔莉亚派你来很明智。
+
+（官）我知道你在找我，年轻的 \<race\>。德塔莉亚派你来证明了她的睿智。
+
+| 类型   | 句子成分       | 英文                                 | 中文                   |
+| ------ | -------------- | ------------------------------------ | ---------------------- |
+| 从句   | 定语           | the supplies `I require`             | `我需要的`供给品       |
+| 非谓语 | 特殊，主系表后 | Dentaria was wise `to have send you` | 德塔莉亚`派你来`很明智 |
+
 ## 其他
 
-| 类型     | 英文                    | 我             | 官方             |
-| -------- | ----------------------- | -------------- | ---------------- |
-| 地名     | Aldrassil               | 阿达希尔       | 奥达希尔         |
-| 地名     | Shadowglen              | 暗影峡谷       | 幽影谷           |
-| 怪物     | Young Nightsaber        | 夜刃豹幼崽     | 夜刃豹幼崽       |
-| 怪物     | Young Thistle Boar      | 蓟野猪幼崽     | 草刺野猪幼崽     |
-| 怪物     | Grell                   | -              | 小劣魔           |
-| 怪物     | Grellkin                | -              | 劣魔             |
-| 物品     | Cat Hair                | 猫毛           | 猫科动物的毛     |
-| 物品     | Demon Hair              | 恶魔毛         | 恶魔毛发         |
-| NPC 职位 | Armorer & Shieldcrafter | 盔甲商和盾牌商 | 护甲和盾牌供应商 |
-| NPC      | Striped Nightsaber      | -              | 条纹夜刃豹       |
-| NPC      | Training Dummy          | 训练假人       | 训练假人         |
-| NPC      | Wounded Sentinel        | 受伤的哨兵     | 受伤的哨兵       |
-| NPC 职位 | Food & Drink            | 食品和饮料商   | 餐饮供应商       |
-| NPC 职位 | General Supplies        | 普通的供应商   | 杂货供应商       |
-| NPC 职位 | Leather Armor Merchant  | 皮甲商         | 皮甲商           |
-| NPC 职位 | Clothier                | 布甲商         | 布甲商           |
-| NPC 职位 | Bowyer                  | 弓商           | 弓箭商           |
-| NPC 职位 | Weaponsmith             | 武器工匠       | 武器锻造商       |
+| 类型     | 英文                    | 我               | 官方             |
+| -------- | ----------------------- | ---------------- | ---------------- |
+| 地名     | Aldrassil               | 阿达希尔         | 奥达希尔         |
+| 地名     | Shadowglen              | 暗影峡谷         | 幽影谷           |
+| 怪物     | Young Nightsaber        | 夜刃豹幼崽       | 夜刃豹幼崽       |
+| 怪物     | Mangy Nightsaber        | 有皮肤病的夜刃豹 | 癞皮夜刃豹       |
+| 怪物     | Young Thistle Boar      | 蓟野猪幼崽       | 草刺野猪幼崽     |
+| 怪物     | Thistle Boar            | -                | 草刺野猪         |
+| 怪物     | Grell                   | -                | 小劣魔           |
+| 怪物     | Grellkin                | -                | 劣魔             |
+| 物品     | Cat Hair                | 猫毛             | 猫科动物的毛     |
+| 物品     | Demon Hair              | 恶魔毛           | 恶魔毛发         |
+| NPC 职位 | Armorer & Shieldcrafter | 盔甲商和盾牌商   | 护甲和盾牌供应商 |
+| NPC      | Striped Nightsaber      | -                | 条纹夜刃豹       |
+| NPC      | Training Dummy          | 训练假人         | 训练假人         |
+| NPC      | Wounded Sentinel        | 受伤的哨兵       | 受伤的哨兵       |
+| NPC 职位 | Food & Drink            | 食品和饮料商     | 餐饮供应商       |
+| NPC 职位 | General Supplies        | 普通的供应商     | 杂货供应商       |
+| NPC 职位 | Leather Armor Merchant  | 皮甲商           | 皮甲商           |
+| NPC 职位 | Clothier                | 布甲商           | 布甲商           |
+| NPC 职位 | Bowyer                  | 弓商             | 弓箭商           |
+| NPC 职位 | Weaponsmith             | 武器工匠         | 武器锻造商       |
