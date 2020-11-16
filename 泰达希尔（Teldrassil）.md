@@ -438,7 +438,31 @@ It `seems` our next task is clear.
 
 
 
+## Vile Touch
 
+### Description
+
+If these spiders are born with corruption in their veins, then their broodmother `must be` at the root of the evil.
+
+Let us `use` our way to the far north of the cave, and `seek` out Githyiss the Vile. The answers we seek `lie` with her.
+
+如果这些蜘蛛伴随着腐化出生，那么它们的母亲必定在邪恶之源附近。
+
+让我们用我们的方式到洞穴的最北边，然后找到 Githyiss the Vile. 我们寻找的答案可以在她那里被发现。
+
+| 类型 | 句子成分 | 英文                       | 中文             |
+| ---- | -------- | -------------------------- | ---------------- |
+| 从句 | 定语     | The answers (that) we seek | 我们`寻找的`问题 |
+
+### Completion
+
+Githyiss and her blood `were being corrupted` by this totem（认为用现在完成时更好）. This `is` a furbolg totem.
+
+This `is`a very troubling indeed. This `means` the Gnarlpine are still a danger to these forests. We let our guard down too soon.
+
+Githyiss 和她的血液一直被这个图腾污染。这是一个熊怪的图腾。
+
+这事确实非常令人困扰。这意味着瘤背熊怪对于这些森林仍是一个危险。我们过快地放下了我们对于此地的看护。
 
 
 
