@@ -478,6 +478,43 @@ I`'m` sure we will meet agian with time. Perhaps you `can aid` me in dealing wit
 
 我确定我们会再一次见面（with time 不知道怎么翻译）。一旦我定位了它，也许你可以援助我处理腐化的源头。现在，我会带你回到 Dentaria 那里，为了你也许能完成你的训练。谢谢你所做的一切事情，\<name\>.
 
+
+
+## Teldrassil: Crown of Azeroth
+
+### Description
+
+As a part of ritual to complete your training here in Shadowglen, you `must learn` about our rencent history.
+
+作为完成你在幽影谷训练的仪式的一部分，你必须学习我们最近的历史。
+
+There `is` a task `you must perform`. `Go` to the moonwell to the northest and `retrieve` a phial of its water. While there, you `will witness` a glimpse of our magics and `learn` of our past.
+
+这里有一个你必须执行的任务。到最北边的月亮井去，然后取一瓶它的水。在那的过程中，你会看见我们的魔法和学到我们的过去。
+
+When you `are` done there, bring the water back to me, and I `will direct` you further.
+
+当你完成在那的事情后，把水带回来给我，然后我会进一步指导你。
+
+### Progress
+
+Our recent history `is` fraught with strife and violence. There `is` still much with which we `must come` to terms.
+
+我们最近的历史充满了冲突和暴力。这里仍有许多我们必须 ？?
+
+### Completion
+
+Well done, \<name\>. You `have` one task left for you before you `depart` Shadowglen for the open wilds of Teldrassil.
+
+干得好, \<name\>. 在你离开幽影谷去往泰达希尔的 xx 之前，只剩下一个任务了。
+
+| 类型   | 句子成分 | 英文                                                         | 中文                                 |
+| ------ | -------- | ------------------------------------------------------------ | ------------------------------------ |
+| 非谓语 | 定语     | As a part of ritual `to complete your training here in Shadowglen` | 作为完成你在幽影谷训练的仪式的一部分 |
+| 从句   | 定语     | There is a task `(that) you must perform`.                   | 这里有一个`你必须执行的`任务         |
+
+
+
 ## 其他
 
 | 类型     | 英文                    | 我               | 官方             |
