@@ -466,6 +466,18 @@ Githyiss 和她的血液一直被这个图腾污染。这是一个熊怪的图�
 
 
 
+## Signs of Things to Come
+
+### Description
+
+I `will purse` the trail of the Gnarlpine and `track` this corruption to its source. If ever you `encounter` Athridas Bearmantle in Dolanaar, he `knows`intimately of the problems that plague this forest, and he `can direct` you on how to help further.
+
+我会追查瘤背熊怪的踪迹以及追踪腐化的源头。如果你在 Dolanaar 的任何时间遇到了 Athridas Bearmantle，他深入地了解困扰这个森林的问题，他会指导你如何进一步帮忙。
+
+I`'m` sure we will meet agian with time. Perhaps you `can aid` me in dealing with the source of this corruption once I `locate` it. Now, I `will take` you back to Dentaria so that you `may finish` your trainning. `Thank` you for all that you have done, \<name\>. 
+
+我确定我们会再一次见面（with time 不知道怎么翻译）。一旦我定位了它，也许你可以援助我处理腐化的源头。现在，我会带你回到 Dentaria 那里，为了你也许能完成你的训练。谢谢你所做的一切事情，\<name\>.
+
 ## 其他
 
 | 类型     | 英文                    | 我               | 官方             |
