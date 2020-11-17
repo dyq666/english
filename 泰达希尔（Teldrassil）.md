@@ -567,6 +567,32 @@ So you `have heard` the first part of aftermath of the battle of Mount Hyjal. Th
 
  
 
+## Teldrassil: Passing Awareness
+
+### Description
+
+While there `is` more I `could speak` you of the moonwells and of Taldrassil, I `must send` you along. Corithras Moonrage `will be expecting` you. I `have poured` the phial of water you `brought` to me into this vessel `to bring` to him.
+
+尽管这里还有很多我可以告诉你关于月亮井和泰达希尔的事情，我必须派你前进了。Corithras Moonrage 正在等你到达。我已经把你带给我的这瓶水倒入这个容器中了，以便带给他。 
+
+`Seek` out Corithras. You `will find` him at the moonwell of Dolanaar. `Follow` this road `south` from Aldrassil out of  Shadowglen, and `continue` `to follow` the cobblestones
+
+找到 Corithras。你将在多兰纳尔的月亮井找到他。跟着这条奥达希尔南边的路离开幽影谷，然后当路向西转时，继续跟着鹅卵石路走。
+
+Mind you stay on the road though, \<name\>. There are dangerous beasts in the forests of late.
+
+建议你沿着路走，最近这里有危险的野兽在森林。
+
+### Progress
+
+### Completion
+
+| 类型 | 句子成分 | 英文                                           | 中文 |
+| ---- | -------- | ---------------------------------------------- | ---- |
+| 从句 |          | While there is more `I could speak ...`        |      |
+| 从句 |          | water `(that) you brought to me`               |      |
+| 从句 |          | Follow this road `(that) south from Aldrassil` |      |
+
 ## 其他
 
 | 类型     | 英文                    | 我               | 官方             |
