@@ -10,5 +10,9 @@
 | soon    | adverb                             | quickly                                                      | We let our guard down too `soon`.                            | 我们过`快`地放下了我们对于此地的看护。  | Vile Touch                   |
 | ever    | adverb                             | a word meaning at any time; used mostly in questions,  negatives, comparisons, or sentences with 'if' | if you `ever` encounter xx in Dolanaar                       | 如果你在 Dolanaar 的`任何时间`遇到了 xx | Signs of Things to Come      |
 | all     | determiner, predeterminer, pronoun | everything                                                   | Thank you for `all` that you have done.                      | 谢谢你所做的`一切事情`                  | Signs of Things to Come      |
+| -       | -                                  | -                                                            | Sb oversees `all` that happens in this glade.                | 某人监督着着这片林地发生的`所有事情`    | Precious Waters              |
 | perform | verb                               | to do something, especially something difficult or useful    | There is a task you must `perform`                           | 这里有一个你必须`执行`的任务            | Teldrassil: Crown of Azeroth |
 | and     | conjunction                        | used to say that one action or event follows another         | Go to the moonwell to the northest `and` retrieve a phial of its water. | 到最北边的月亮井去，`然后`取一瓶它的水  | Teldrassil: Crown of Azeroth |
+| -       | -                                  | -                                                            | Ascend this camp and complete your training                  | 沿着坡道向上走，然后完成你的训练        | Precious Waters              |
+| hold    | transitive verb                    | to keep something to be used when it is needed               | The moonwells `hold` the waters of the Well of Eternity      | 月亮井`存储着`永恒之井的水              | Precious Waters              |
+

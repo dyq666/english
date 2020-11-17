@@ -523,6 +523,50 @@ Well done, \<name\>. You `have` one task left for you before you `depart` Shadow
 
 
 
+## Precious Waters
+
+### Description
+
+Tenaron Stormgrip `oversees` all that `happens` in this glade. He `presides` at the top of the Aldrassil.
+
+Tenaron Stormgrip 监督着这片林地中发生的所有事。他在奥达希尔的顶部主持事务。
+
+If you `look` to your south, you `will see` the underside of the camp that leads up to him. `Ascend` this camp and `complete` your training.
+
+如果你向你的南边看去，你会看到通往他那里的坡道的底部。沿着这个坡道向上走，然后完成你的训练。
+
+It `was` wonderful to have met you, \<name\>. I `swell` with pride knowing that among young night elves, there `are` some selfless and full of life as you are. You `will do` great thing for our people. You `will do` great thing for this world.
+
+遇到你真的太好了，\<name\>。我感到非常自豪，因为知道了在年轻的暗夜精灵中，像你一样充满了无私和生命力。你将为我们的人民做伟大的事情。你将为这个世界做伟大的事情。
+
+Until we `meet` again.
+
+直到我们下次见面。
+
+### Progress
+
+The moonwells `hold` the waters of the Well of Enternity，the ancient source of magic that has wrought so many horros upon our world.
+
+月亮井存储着永恒之井的水，古老的给我们的世界带来了许多恐怖的魔法之源。
+
+The druids take advantage of its properties, the Sentinels revere the wells as shrines to Elune, and now even the returning Highborne look to the wells longingly.
+
+德鲁伊利用它的特性，哨兵把井当作与艾露恩的联系，即使现在正在返回的高等精灵也渴望地看到井。
+
+### Completion
+
+So you `have heard` the first part of aftermath of the battle of Mount Hyjal. These is much more for you to learn and the task you have begun will continue through the rest of your journey through Teldrassil and into Darnassus.
+
+所以你已经听过了海加尔山之战战后的第一部分。这里有许多你要学的东西，以及你已经开始的任务将在你的旅程的空余时间中继续从泰达希尔到达纳苏斯。
+
+| 类型   | 句子成分 | 英文                               | 中文                   |
+| ------ | -------- | ---------------------------------- | ---------------------- |
+| 从句   | 定语     | oversees all `that happens`        | 监督者`发生的`所有事情 |
+| 从句   | 定于     | camp `that leads up to him`        | `通往他那里的`坡道     |
+| 非谓语 | 主语     | It was wonderful `to have met you` | `遇到你`真的太好了     |
+
+ 
+
 ## 其他
 
 | 类型     | 英文                    | 我               | 官方             |
