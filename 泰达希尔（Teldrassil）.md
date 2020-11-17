@@ -478,7 +478,15 @@ I`'m` sure we will meet agian with time. Perhaps you `can aid` me in dealing wit
 
 我确定我们会再一次见面（with time 不知道怎么翻译）。一旦我定位了它，也许你可以援助我处理腐化的源头。现在，我会带你回到 Dentaria 那里，为了你也许能完成你的训练。谢谢你所做的一切事情，\<name\>.
 
+### Completion
 
+You`'ve returned`! It `is` good to see you. It `seems` you`'ve delt` with the source of much of the corruption in Shadowglen.
+
+你已经回来了！看见你真好。看起来你已经在幽影谷解决了腐败的许多源头。
+
+Teldrassil still `suffer` and `will` need attention, be (感觉是 but ？) we can afford a moment or two for you to finish your training here in Shadowglen.
+
+泰达希尔仍遭受着痛苦以及需要关注，但是我们抽出一些时间，为了让你完成你在幽影谷的训练。
 
 ## Teldrassil: Crown of Azeroth
 
