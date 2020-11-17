@@ -255,14 +255,15 @@ There `are` many young night elves in need of these, but I'd be more than happy 
 
 Safe travels to you.
 
-（我）赞美艾露恩！也赞美你，年轻的 \<class\>。这里有许多需要这些供给品的年轻暗夜精灵，但是我很高兴给你一个作为奖励。我确定它会有用。一路平安。
+（我）赞美艾露恩！也赞美你，年轻的 \<class\>。虽然有许多需要那些供给品的年轻德鲁伊，但是我很高兴给你一个作为奖励。我确定它会有用。一路平安。
 
 （官）赞美月神！还有你，年轻的 \<class\>。虽然很多年轻的暗夜精灵都需要这些背包，但是我决定送你一个作为奖励。你会用得着的。祝你一路平安。
 
-| 类型   | 句子成分 | 英文                                     | 中文                 |
-| ------ | -------- | ---------------------------------------- | -------------------- |
-| 非谓语 | 状语？   | I'd be more than happy `to give you ...` | 我很高兴`去给你 ...` |
-| 从句   | 宾语     | I'm sure `(that) it will ...`            | 我确定`它会 ...`     |
+| 类型   | 句子成分 | 英文                                                | 中文                             |
+| ------ | -------- | --------------------------------------------------- | -------------------------------- |
+| 非谓语 | 状语？   | I'd be more than happy `to give you ...`            | 我很高兴`去给你 ...`             |
+| 从句   | 宾语     | I'm sure `(that) it will ...`                       | 我确定`它会 ...`                 |
+| 从句   | 定语     | There are many young night elves `in need of these` | 有许多需要那些供给品的年轻德鲁伊 |
 
 
 
@@ -322,7 +323,7 @@ Would you gather them for me? There `should be` many just in sight of here, near
 
 你可以在池塘周围找到月瓣百合。这些花有非常好的治疗能力，我能用它们和我已经有的材料去恢复 Iverron 的建康。
 
-你能帮我收集他们吗？在水的边缘附近，应该有很多你现在视野中就能看见的。
+你能帮我收集他们吗？在水池边附近应该有许多在你视野里的月瓣百合。
 
 （官）我们的朋友埃沃隆被附近的树林蜘蛛咬了，现在已经中毒。我可以尽量使他的病情不再恶化，但是我得找人收集一种材料，才能为他准备解药。
 
@@ -330,13 +331,14 @@ Would you gather them for me? There `should be` many just in sight of here, near
 
 你能去帮我收集一些吗？这附近不远处就有许多月牙花分布在水池边。
 
-| 类型   | 句子成分 | 英文                                                     | 中文                                                         |
-| ------ | -------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| 非谓语 | 目的状语 | I can tend to him `to keep his state from deteriorating` | 为了避免他的状态恶化，我会照顾他                             |
-| 非谓语 | 宾语补语 | I need someone `to gather ...`                           | 我需要一个人`去收集 ...`                                     |
-| 非谓语 | 目的状语 | I need someone to gather ... `to prepare ...`            | `为了准备...`，我需要某人去 ... （补充说明：这里的两个 to do 都是修饰 need 的。第一个是补全 need 的宾语，表示需要某人 `做什么`。而第二个是表示需要某人做某事的 `目的`。） |
-| 从句   | 宾语     | the ingredients `(that) I already have`                  | `我已经有的`材料                                             |
-| 非谓语 | 宾语补语 | I can use them ... `to restore ...`                      | 我可以用他们 ... `去恢复 ...`                                |
+| 类型   | 句子成分 | 英文                                                         | 中文                                                         |
+| ------ | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 非谓语 | 目的状语 | I can tend to him `to keep his state from deteriorating`     | 为了避免他的状态恶化，我会照顾他                             |
+| 非谓语 | 宾语补语 | I need someone `to gather ...`                               | 我需要一个人`去收集 ...`                                     |
+| 非谓语 | 目的状语 | I need someone to gather ... `to prepare ...`                | `为了准备...`，我需要某人去 ... （补充说明：这里的两个 to do 都是修饰 need 的。第一个是补全 need 的宾语，表示需要某人 `做什么`。而第二个是表示需要某人做某事的 `目的`。） |
+| 从句   | 宾语     | the ingredients `(that) I already have`                      | `我已经有的`材料                                             |
+| 非谓语 | 宾语补语 | I can use them ... `to restore ...`                          | 我可以用他们 ... `去恢复 ...`                                |
+| 从句   | 同位语   | There should be many just in sight of here, `near the water's edge`. | `在水池边附近`应该有许多在你视野里的月瓣百合。               |
 
 ### Progress
 
@@ -498,7 +500,7 @@ As a part of ritual to complete your training here in Shadowglen, you `must lear
 
 There `is` a task `you must perform`. `Go` to the moonwell to the northest and `retrieve` a phial of its water. While there, you `will witness` a glimpse of our magics and `learn` of our past.
 
-这里有一个你必须执行的任务。到最北边的月亮井去，然后取一瓶它的水。在那的过程中，你会看见我们的魔法和学到我们的过去。
+有一个你必须执行的任务。到最北边的月亮井去，然后取一瓶它的水。在那的过程中，你会看见我们的魔法和学到我们的过去。
 
 When you `are` done there, bring the water back to me, and I `will direct` you further.
 
@@ -519,7 +521,7 @@ Well done, \<name\>. You `have` one task left for you before you `depart` Shadow
 | 类型   | 句子成分 | 英文                                                         | 中文                                 |
 | ------ | -------- | ------------------------------------------------------------ | ------------------------------------ |
 | 非谓语 | 定语     | As a part of ritual `to complete your training here in Shadowglen` | 作为完成你在幽影谷训练的仪式的一部分 |
-| 从句   | 定语     | There is a task `(that) you must perform`.                   | 这里有一个`你必须执行的`任务         |
+| 从句   | 定语     | There is a task `(that) you must perform`.                   | 有一个`你必须执行的`任务。           |
 
 
 
@@ -537,7 +539,7 @@ If you `look` to your south, you `will see` the underside of the camp that leads
 
 It `was` wonderful to have met you, \<name\>. I `swell` with pride knowing that among young night elves, there `are` some selfless and full of life as you are. You `will do` great thing for our people. You `will do` great thing for this world.
 
-遇到你真的太好了，\<name\>。我感到非常自豪，因为知道了在年轻的暗夜精灵中，像你一样充满了无私和生命力。你将为我们的人民做伟大的事情。你将为这个世界做伟大的事情。
+遇到你真的太好了，\<name\>。我感到非常自豪，因为知道了在年轻的暗夜精灵中，有一些像你一样充满了无私和生命力的人。你将为我们的人民做伟大的事情。你将为这个世界做伟大的事情。
 
 Until we `meet` again.
 
@@ -573,7 +575,7 @@ So you `have heard` the first part of aftermath of the battle of Mount Hyjal. Th
 
 While there `is` more I `could speak` you of the moonwells and of Taldrassil, I `must send` you along. Corithras Moonrage `will be expecting` you. I `have poured` the phial of water you `brought` to me into this vessel `to bring` to him.
 
-尽管这里还有很多我可以告诉你关于月亮井和泰达希尔的事情，我必须派你前进了。Corithras Moonrage 正在等你到达。我已经把你带给我的这瓶水倒入这个容器中了，以便带给他。 
+虽然有许多我能告诉你关于月亮井和泰达希尔的事情，但是我必须派你前进了。Corithras Moonrage 正在等你到达。我已经把你带给我的这瓶水倒入这个容器中了，以便带给他。 
 
 `Seek` out Corithras. You `will find` him at the moonwell of Dolanaar. `Follow` this road `south` from Aldrassil out of  Shadowglen, and `continue` `to follow` the cobblestones
 
@@ -587,11 +589,11 @@ Mind you stay on the road though, \<name\>. There are dangerous beasts in the fo
 
 ### Completion
 
-| 类型 | 句子成分 | 英文                                           | 中文 |
-| ---- | -------- | ---------------------------------------------- | ---- |
-| 从句 |          | While there is more `I could speak ...`        |      |
-| 从句 |          | water `(that) you brought to me`               |      |
-| 从句 |          | Follow this road `(that) south from Aldrassil` |      |
+| 类型 | 句子成分 | 英文                                                         | 中文                                       |
+| ---- | -------- | ------------------------------------------------------------ | ------------------------------------------ |
+| 从句 | 定语     | there is more `I could speak you of the moonwells and of Taldrassil` | 有许多我能告诉你关于月亮井和泰达希尔的事情 |
+| 从句 |          | water `(that) you brought to me`                             |                                            |
+| 从句 |          | Follow this road `(that) south from Aldrassil`               |                                            |
 
 ## 其他
 
