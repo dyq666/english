@@ -362,7 +362,7 @@ These `will do` perfectly. Thank you, \<name\>. Your swiftness is appreciated.
 
 
 
-## The Woodland Protector（我）林地守卫者（官）森林守护者
+## 森林守护者 （The Woodland Protector）
 
 from: Dentaria Silverglade 德塔莉亚·银林
 
@@ -370,36 +370,43 @@ to: Tarindrella 塔琳德拉
 
 ### Description
 
-I `must ask` something more dangerous of you. Strange news `has traveled` to me through the whisperings of the forest of spirits. The mysterious woodland protector, Tarindrella, `has returned` to Shadowglan again.
+I `must ask` something more dangerous of you. 
 
-The dryad's presence `has not been` felt in the forests since before the blessing of Teldrassil. Something `is` surely amiss if she has journeyed back to this land.
+我`必须请`你做件更危险的事情。
 
-`Seek out` Tarindrella in the Shadowthread cave to the north. It `is` dangerous, but we will be prepared with this antidote just in case.
+Strange news `has traveled` to me through the whisperings of the forest of spirits. 
 
-（我）我必须请你再帮我做个更危险的事情。奇怪的新闻通过森林之魂的耳语传到了我这里。神秘的林地守护者，Tarindrella，再一次回到了幽影谷。
+奇怪的新闻通过森林之魂的低语`传到了`我这里。
 
-在泰达希尔的祝福之前，就没有人在森林中察觉到这位树妖的存在。如果她已经回到了这片林地，那一定是有不对劲的事情。
+The mysterious woodland protector, Tarindrella, `has returned` to Shadowglan again.
 
-在这里北边的 Shadowthread 洞穴里找到 Tarindrella。这事很危险，以防万一（just in case）已经为我们准备好了解毒剂。
+神秘的林地守护者，塔琳德拉，再一次`回到了`幽影谷。
 
-（官）我必须请你去做一件更危险的事。森林之魂的低语给我带来了奇怪的消息。神秘的森林守护者塔琳德拉又回到了幽影谷。
+The dryad's presence `has not been felt` in the forests since before the blessing of Teldrassil.
 
-早在泰达希尔受到祝福之前，这位树妖的身影就没有在这片森林中出现过了。她既然回到了这里，就意味着这里一定出了什么事情。
+在泰达希尔的祝福之前，树妖的存在`就没有` 在森林中 `被察觉到`。
 
-到北边的黑丝洞去找到塔琳德拉。是有些危险，不过有了解药，我们就不用怕了。
+Something `is` surely amiss if she `has journeyed back` to this land.
+
+如果她`已经回到了`这片林地，那么一定有些不对劲的事情发生了。
+
+`Seek out` Tarindrella in the Shadowthread cave to the north. 
+
+到北边的黑丝洞`找到`塔琳德拉。
+
+It `is` dangerous, but we `will be prepared` with this antidote just in case.
+
+虽然这事`有`危险，但我们`将准备`这个解毒剂以防万一。
 
 ### Completion
 
-I `see` you found me （我认为应该是 are finding）, young \<race\>. Dentaria `was` wise to have send you（我认为应该是 is wise to send you）.
+I `see` you found me, young \<race\>. 
 
-（我）我看见你在找我，年轻的 \<race\>。德塔莉亚派你来很明智。
+我`看见`你在`找`我，年轻的 \<race\>。
 
-（官）我知道你在找我，年轻的 \<race\>。德塔莉亚派你来证明了她的睿智。
+Dentaria `was` wise to have send you.
 
-| 类型   | 句子成分       | 英文                                 | 中文                   |
-| ------ | -------------- | ------------------------------------ | ---------------------- |
-| 从句   | 定语           | the supplies `I require`             | `我需要的`供给品       |
-| 非谓语 | 特殊，主系表后 | Dentaria was wise `to have send you` | 德塔莉亚`派你来`很明智 |
+德塔莉亚派你来很明智。
 
 
 
