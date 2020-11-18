@@ -267,7 +267,7 @@ Safe travels to you.
 
 
 
-## Priestess of the Moon （我）月之女祭司	（官）月神女祭司
+## 月神女祭司（Priestess of the Moon）
 
 from: Ilthalaine 伊尔萨莱恩
 
@@ -275,33 +275,31 @@ to: Dentaria Silverglade 德塔莉亚·银林
 
 ### Description
 
-Perhaps you'd `be willing` to aid us in further pursuing the corruption haunting Shadowglen.
+Perhaps you`'d be willing` `to aid` us in further `pursuing` the corruption `haunting` Shadowglen.（to do 用在主系表结构之后，doing 作宾语，doing 作定语）
 
-Dentaria Silverglade, Priestess of the Moon, `has offered` to aid us. You `should find` her between the two pools just north of our great tree. `Circle` around the tree to reach her and `offer` her any help that you can, young \<class\>.
+也许你`现在愿意`，进一步`援助`我们`追查` `正在困扰`幽影谷的腐化。
 
-（我）也许你现在愿意帮助我们，进一步追寻困扰幽影谷的腐化。德塔莉亚·银林，一位月之女祭司，已经表明愿意帮助我们。你应该能在大树北边的两个水池中间发现她。绕着树走到她那里，然后为她提供任何你能做到的帮助，年轻的 \<class\>。
+Dentaria Silverglade, Priestess of the Moon, `has offered` to aid us. （to do 作宾语）
 
-（官）或许你可以帮助我们继续调查幽影谷的污染事件。月神女祭司德塔莉亚·银林向我们伸出援手。你可以在奥达希尔以北的两座池塘之间找到她。绕树前进，年轻的 \<class\>，尽你所能地协助她吧。
+德塔莉亚·银林，一位月神女祭司，`已经提出要`帮助我们。
 
-| 类型   | 句子成分 | 英文                                  | 中文                       |
-| ------ | -------- | ------------------------------------- | -------------------------- |
-| 非谓语 | 定语     | the corruption `haunting Shadowglen`  | `困扰幽影谷的` 腐化        |
-| 非谓语 | 宾语     | has offered `to aid us`               | 已经表明愿意`帮助我们`     |
-| 非谓语 | 状语     | Circle around the tree `to reach her` | 绕着树走`到她那里`         |
-| 从句   | 定语     | offer her any help `that you can`     | 为她提供任何你能做到的帮助 |
+You `should find` her between the two pools just north of our great tree. 
+
+你`应该能`在大树北边的两个水池中间`发现`她。
+
+`Circle` around the tree `to reach` her and `offer` her any help that you `can`, young \<class\>.（to do 作目的状语，从句作定语）
+
+`绕`着树`走`，`以便抵达`她那，然后向她`提供`任何你`能做到`的帮助，年轻的 \<class\>。
 
 ### Completion
 
-It `is` good that you've come. It `seems` your training progresses quickly.
+It `is` good that you`'ve come`. （从句作主语）
 
-（我）你能来这真好。似乎你的训练进展很快。
+你`到这了`真好。
 
-（官）很高兴你能赶来。看来你的进步很快嘛。
+It `seems` your training `progresses` quickly.（宾语从句）
 
-| 类型 | 句子成分 | 英文                                | 中文              |
-| ---- | -------- | ----------------------------------- | ----------------- |
-| 从句 | 主语     | It is good `that you've come`.      | `你能来这`真好。  |
-| 从句 | 表语     | It seems `(that) your training ...` | 似乎`你的训练...` |
+`看起来`你的训练`进展`很快。
 
 
 
