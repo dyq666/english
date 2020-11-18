@@ -583,17 +583,29 @@ While there `is` more I `could speak` you of the moonwells and of Taldrassil, I 
 
 Mind you stay on the road though, \<name\>. There are dangerous beasts in the forests of late.
 
-建议你沿着路走，最近这里有危险的野兽在森林。
+请注意，你最好在路上走，最近这里有危险的野兽在森林。
 
 ### Progress
 
+Greetings, \<class\>. For what purpose do I owe the pleasure of our meeting?
+
+你好, \<class\>. 我拥有这次令人愉快的见面是什么目的？
+
 ### Completion
+
+Ah, I see. You `were sent` by Tenaron. Well then, it `would seem` we `have` much to talk about, much to do.
+
+恩，我知道了。你是 Tenaron 派来的。很好，似乎我们有很多可以聊的，很多可以做的事情。
+
+Before we `get` to the task at hand, you should take in the lesson of this moonwell.
+
+在开始手中的任务之前，你应该去月亮井那里上课。
 
 | 类型 | 句子成分 | 英文                                                         | 中文                                       |
 | ---- | -------- | ------------------------------------------------------------ | ------------------------------------------ |
 | 从句 | 定语     | there is more `I could speak you of the moonwells and of Taldrassil` | 有许多我能告诉你关于月亮井和泰达希尔的事情 |
-| 从句 |          | water `(that) you brought to me`                             |                                            |
-| 从句 |          | Follow this road `(that) south from Aldrassil`               |                                            |
+| 从句 | 定语     | water `(that) you brought to me`                             | 你带给我的水                               |
+| 从句 | 定语     | Follow this road `(that) south from Aldrassil`               | 跟着这条奥达希尔以南的路                   |
 
 ## 其他
 
