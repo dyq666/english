@@ -483,31 +483,49 @@ The Gnarlpine `remain` tainted by something most foul.
 
 瘤背熊怪`仍`被一些最糟糕的东西影响。
 
-## Vile Touch
+
+
+## 邪恶的触摸（Vile Touch)
+
+from: Tarindrella 塔琳德拉
+
+to: Tarindrella 塔琳德拉
 
 ### Description
 
-If these spiders are born with corruption in their veins, then their broodmother `must be` at the root of the evil.
+If these spiders `are born` with corruption in their veins, then their broodmother `must be` at the root of the evil.
 
-Let us `use` our way to the far north of the cave, and `seek` out Githyiss the Vile. The answers we seek `lie` with her.
+如果这些蜘蛛随着在他们血脉中的腐化`出生`，那么它们的母亲 `必定` 在邪恶之源处。
 
-如果这些蜘蛛伴随着腐化出生，那么它们的母亲必定在邪恶之源附近。
+Let us `use` our way to the far north of the cave, and `seek out` Githyiss the Vile. 
 
-让我们用我们的方式到洞穴的最北边，然后找到 Githyiss the Vile. 我们寻找的答案可以在她那里被发现。
+让我们`用`我们的方式到洞穴的最北边，然后`找到` 邪恶的基塞伊斯。
 
-| 类型 | 句子成分 | 英文                       | 中文             |
-| ---- | -------- | -------------------------- | ---------------- |
-| 从句 | 定语     | The answers (that) we seek | 我们`寻找的`问题 |
+The answers we `seek` `lie` with her.（从句作定语）
+
+我们`寻找`的答案，`在`她`那`。
 
 ### Completion
 
-Githyiss and her blood `were being corrupted` by this totem（认为用现在完成时更好）. This `is` a furbolg totem.
+Githyiss and her blood `were being corrupted` by this totem. 
 
-This `is`a very troubling indeed. This `means` the Gnarlpine are still a danger to these forests. We let our guard down too soon.
+Githyiss 和她的血液一直被`这个图腾`腐化`。
 
-Githyiss 和她的血液一直被这个图腾污染。这是一个熊怪的图腾。
+This `is` a furbolg totem.
 
-这事确实非常令人困扰。这意味着瘤背熊怪对于这些森林仍是一个危险。我们过快地放下了我们对于此地的看护。
+这`是`一个熊怪的图腾。
+
+This `is`a very troubling indeed. 
+
+这事确实`是`非常令人困扰的。
+
+This `means` the Gnarlpine `are` still a danger to these forests. （从句作宾语）
+
+这`意味着`，瘤背熊怪对于这些森林仍`是`一个危险。
+
+We `let` our guard `down` too soon.
+
+我们过快地`放下`了我们对于此地的看护。
 
 
 
