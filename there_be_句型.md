@@ -17,10 +17,10 @@
 
 ### 例子
 
-| 英文                                                         | 原句                                                  | 中文                                         | 来源               |
-| ------------------------------------------------------------ | ----------------------------------------------------- | -------------------------------------------- | ------------------ |
-| There are dangerous beasts in the forests of late. (of late = recently) | Dangerous beasts are in the forests of late.          | 最近，森林中有危险的野兽。                   | Demonic thieves    |
-| There should be many just in sight of here, near the water's edge. (注意，这里还有个同位语从句修饰 here，many 则指代上文的月瓣百合) | Many should be near the water's edge just in sight of | 在水池边附近应该有许多在你视野里的月瓣百合。 | Iverron's Antidote |
+| 英文                                                         | 原句                                                         | 中文                                                   | 来源               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ | ------------------ |
+| There are dangerous beasts in the forests of late. (of late = recently) | Dangerous beasts are in the forests of late.                 | 最近，森林中有危险的野兽。                             | Demonic thieves    |
+| There should be many just in sight of here, near the water's edge. | Many should be just in sight of here, near the water's edge. | 仅仅在这里的视野中就有许多月牙百合花，在水的边缘附近。 | Iverron's Antidote |
 
 ## There be + 某物
 
