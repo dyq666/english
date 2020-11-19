@@ -104,7 +104,7 @@ Dentaria Silverglade says: `Study` well, \<name\>. We `may need` you fighting by
 
 
 
-## Fel Moss Corruption （我）恶魔苔藓的腐化（官）腐化的魔苔
+## 腐化的魔苔（Fel Moss Corruption）
 
 from：Ilthalaine 伊尔萨莱恩
 
@@ -112,78 +112,69 @@ to：Ilthalaine 伊尔萨莱恩
 
 ### Description
 
-You `seem` to know what you're doing. Perhaps I `can task` you with something a little more important.
+You `seem` `to know` what you`'re doing`.（to do 作宾语，从句作宾语）
 
-（我）你似乎知道你正在做什么。也许我可以给你一个有些重要的任务。
+你`看起来`，`知道`你正在做什么。
 
-（官）看来你很清楚自己在做什么。或许我可以交给你一项更重要的任务。
+Perhaps I `can task` you with something a little more important.
 
-| 类型   | 句子成分 | 英文                     | 中文               |
-| ------ | -------- | ------------------------ | ------------------ |
-| 非谓语 | 主语补语 | You seem `to know ...`   | 你似乎`知道 ...`   |
-| 从句   | 宾语     | know `what you're doing` | 知道`你正在做什么` |
+也许我`可以交给`你一项更重要的任务。
 
-As you may well know, the corruption in Teldrassil `was supposedly wiped` away. Yet something lingers. The creatures `have not calmed` and all manner of problems still `plague` us.
+As you may well know, the corruption in Teldrassil `was supposedly wiped` away. 
 
-（我）正如你也许很好地知道，在 Teldrassil 的腐化本应该被清除了。然而有一些腐化的东西留存了下来。动物们没有平静下来，且各种方式的问题仍困扰着我们。
+正如你也许知道的那样，在 Teldrassil 的腐化本应该被清除了。
 
-（官）你大概也知道，我们原以为泰达希尔的污染已被清除。但是腐化的气息依然残留。自然界的生物并没有恢复常态，我们依然要面临各种各样的问题。
+Yet something `lingers`. 
 
-I `need` you to deal with the grellkin that have gathered to the west, and while you're there, I `want` you to search them for fel moss. This `will help` me determine from where this continuing corruption stems.
+然而有一些腐化的东西留存了下来。
 
-（我）我需要你去解决已经向西边聚集的劣魔，当你在那里的过程中，我想要你在劣魔身上搜寻恶魔苔藓。这个会帮助我确定这个持续的腐败来源的地方。
+The creatures `have not calmed` and all manner of problems still `plague` us.
 
-（官）我要你对付聚集在西边聚集的劣魔，并从他们身上收集魔苔。我或许可以借此找出污染之源。
+动物们没有平静下来，且各种方式的问题仍困扰着我们。
 
+I `need` you to deal with the grellkin that have gathered to the west, and while you're there, I `want` you to search them for fel moss. （to do 作宾补，从句作定语，to do 作宾补）
 
-| 类型   | 句子成分 | 英文                     | 中文               |
-| ------ | -------- | ------------------------ | ------------------ |
-| 非谓语 | 宾补     | I need you `to deal with ...`                                | 我需要你`去解决 ...`             |
-| 从句   | 定语     | the grellkin `that have gathered to the west`                | 已经向西边聚集的劣魔             |
-| 从句   | 时间状语 | `while you're there`, I want ...                             | 当你在那里的过程中，我想要你 ... |
-| 非谓语 | 宾补 | This will help me `(to) determine ...` | 这个会帮助我`去确定 ...` |
-| 非谓语 | 宾补     | I want you `to search ...`                                   | 我想要你`去搜寻 ...`             |
-| 从句 | 宾语 | determine `from where this continuing corruption stems`. | 确定这个持续的腐败来源的地方。 |
+我需要你去解决已经向西边聚集的劣魔，当你在那里的过程中，我想要你在劣魔身上搜寻恶魔苔藓。
+
+This `will help` me determine from where this continuing corruption stems.（从句作宾语）
+
+这个会帮助我确定这个持续的腐败来源的地方。
 
 ### Progress
 
-`Satisfy` my suspicions, \<name\>. `Bring` to me fel moss from the grellkin.
+`Satisfy` my suspicions, \<name\>.
 
-（我）满足我的疑虑，\<name\>. 请给我带来劣魔身上的恶魔苔藓。
+满足我的疑虑，\<name\>。
 
-（官）帮我证明我的猜想吧，西瓜小战。从劣魔身上收集魔苔给我。
+`Bring` to me fel moss from the grellkin.
+
+请给我带来劣魔身上的恶魔苔藓。 
 
 ### Complement
 
 Your service to the creatures of Shadowglen `is` worthy of reward, \<name\>.
 
-（我）你对 Shadowglen 动物的帮助是值得嘉奖的, \<name\>.
+你对幽影谷动物的帮助是值得嘉奖的, \<name\>.
 
-（官）你为幽影谷生物所做的一切值得褒奖，\<name\>。
+You `confirmed` my fears, however. 
 
-| 类型   | 句子成分 | 英文                                          | 中文                       |
-| ------ | -------- | --------------------------------------------- | -------------------------- |
-| 非谓语 | 定语     | Your service `to the creatures of Shadowglen` | 你对 Shadowglen 动物的帮助 |
+但是（官方翻译，不过），你证实了我害怕的事。
 
-You `confirmed` my fears, however. The grellkin `are still tainted` by fel moss, despite Teldrassil's blessing. Something sinister `remains` within the tree. I `can only hope` that the Gnarlpine tribe of furbolgs are free of the corruption, or we are still in grave danger.
+The grellkin `are still tainted` by fel moss, despite Teldrassil's blessing. 
 
-（我）但是，你证实了我害怕的事。尽管有泰达希尔的祝福，劣魔仍被恶魔苔藓污染。某些邪恶的东西仍残留在树中。我只希望瘤背熊怪免于腐化，否则我们依然处于严重的危险中。
+尽管有泰达希尔的祝福，劣魔仍被恶魔苔藓污染。
 
-（官）不过，你也证明了我的担忧。尽管这里得到了泰达希尔的赐福，但是劣魔依然被魔苔所污染。我只希望瘤背熊怪免于腐化，否则我们的危机就无法化解。
+Something sinister `remains` within the tree. 
 
-| 类型 | 句子成分 | 英文                       | 中文           |
-| ---- | -------- | -------------------------- | -------------- |
-| 从句 | 宾语     | I can only hope `that ...` | 我只希望 `...` |
+某些邪恶的东西仍残留在树中。
+
+I `can only hope` that the Gnarlpine tribe of furbolgs are free of the corruption, or we are still in grave danger.（从句作宾语）
+
+我只希望瘤背熊怪免于腐化，否则我们依然处于严重的危险中。
 
 I `will look` into this further and `contact` those who might be of aid. Thank you, \<class\>.
 
-（我）我会进一步调查，并联系也许会援助的人。谢谢你，\<class\>。
-
-（官）我会继续调查此事，寻求可能的帮助力量。谢谢你，\<class\>。
-
-| 类型 | 句子成分 | 英文                                | 中文                 |
-| ---- | -------- | ----------------------------------- | -------------------- |
-| 从句 | 定语     | contact those `who might be of aid` | 联系`也许会援助的`人 |
+我会进一步调查，并联系也许会援助的人。谢谢你，\<class\>。
 
 
 
