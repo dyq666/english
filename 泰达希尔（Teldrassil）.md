@@ -187,7 +187,7 @@ I `will look` into this further and `contact` those who might be of aid. Thank y
 
 
 
-## A Favor for Melithar (我) 帮 Melithar 一个忙（官）帮助麦利萨尔
+## 帮助麦利萨尔 （A Favor for Melithar）
 
 from：Ilthelaine 伊尔萨莱恩
 
@@ -195,28 +195,31 @@ to：Melithar Staghelm 麦利萨尔·鹿盔
 
 ### Description
 
-You `should speak` with Melithar. I `believe` he had some troubles with the grell already. I `expect` he can offer you a well needed place to store more of your goods should you aid him. （倒装，等于 if you should aid him）
+You `should speak` with Melithar. 
 
-（我）你应该和 Melithar 谈谈。我相信劣魔已经给他带来了一些麻烦。如果你帮助他，我预计他会给你一个急需的用于存储更多东西的地方。
+你应该和 Melithar 谈谈。
 
-（官）你应该跟麦利萨尔谈谈。我相信正为劣魔的事情发愁呢。如果你能帮他一把的话，他会送你你急需的背包的。
+I `believe` he `had` some troubles with the grell already.（从句作宾语）
 
-| 类型 | 句子成分 | 英文                                | 中文                     |
-| ---- | -------- | ----------------------------------- | ------------------------ |
-| 从句 | 定语     | place `to store more of your goods` | `用于存储更多东西的`地方 |
+我`相信`，他已经被劣魔困扰。
+
+ I `expect` he `can offer` you a well needed place `to store` more of your goods should you `aid` him. （从句作宾语，倒装等于 if you should aid him，to do 作目的状语）
+
+如果你`帮助`他，我`预计`，他`会给`你一个急需地方，`使你能`存储更多东西。
 
 ### Completion
 
-Ilthalaine `sent` you? He was `wise` to do so. I `am` indeed in need of help.
+Ilthalaine `sent` you? 
 
-（我）伊尔萨莱恩派你来的？他这样做很明智。我的确需要帮助。
+伊尔萨莱恩`派`你来的？
 
-（官）
-伊尔萨莱恩派你来的？他做了个明智的决定。我确实需要帮助。
+He `was` wise `to do` so. （to do 用在主系表结构之后）
 
-| 类型 | 句子成分 | 英文                    | 中文             |
-| ---- | -------- | ----------------------- | ---------------- |
-| 从句 | 状语？   | He was wise `to do so`. | 他`这样做`很明智 |
+他这样`做`很明智。
+
+I `am` indeed in need of help.
+
+我的确需要帮助。
 
 
 
